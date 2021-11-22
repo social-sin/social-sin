@@ -20,19 +20,22 @@
    - p5.play
    - p5.envelope
 
-
-   p5.js
+   Processing
    - Beads
    - Loom
    - Lunar
    - Minim
    - MidiBus
 
-
    Eclipse
    - PyWin32
    - PyAutoGUI
    - Pynput
+
+   Content Management Systems
+   - WordPress (Divi Theme and Visual Builder)
+   - Joomla! (Extensions / Plugins)
+   - Wix (Wix Editor / ADI)
 
 # 💞️ I’m looking to collaborate on
    Interactive Media Installations
@@ -40,6 +43,8 @@
    UX/UI Design
    
    App and Web Development
+   
+   AI/ML Development
 
 # 📫 How to reach me...
    [Portfolio](https://www.social-sin.com/)
