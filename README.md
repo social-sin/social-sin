@@ -19,12 +19,16 @@
    - p5.sound
    - p5.play
    - p5.envelope
+
+
    p5.js
    - Beads
    - Loom
    - Lunar
    - Minim
    - MidiBus
+
+
    Eclipse
    - PyWin32
    - PyAutoGUI
@@ -32,11 +36,16 @@
 
 # 💞️ I’m looking to collaborate on
    Interactive Media Installations
+   
    UX/UI Design
+   
    App and Web Development
 
 # 📫 How to reach me...
    [Portfolio](https://www.social-sin.com/)
+   
    [Instagram](https://www.instagram.com/social.sin/)
+   
    [LinkedIn](https://www.linkedin.com/in/social-sin/)
+   
    [Email](mailto:social.sin@outlook.com)
