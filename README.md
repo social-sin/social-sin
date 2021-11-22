@@ -15,27 +15,27 @@
    I have big dreams of pursuing a career in Higher Education, teaching students to develop art education and creative practices in Creative Code Art and Emerging Technologies.
 
 # 🌱 I’m currently learning
-   p5.js
+   ## p5.js
    - p5.sound
    - p5.play
    - p5.envelope
 
-   Processing
+   ## Processing
    - Beads
    - Loom
    - Lunar
    - Minim
    - MidiBus
 
-   Eclipse
+   ## Eclipse
    - PyWin32
    - PyAutoGUI
    - Pynput
 
-   Content Management Systems
-   - WordPress (Divi Theme and Visual Builder)
-   - Joomla! (Extensions / Plugins)
-   - Wix (Wix Editor / ADI)
+   ## Content Management Systems
+   - WordPress
+   - Joomla!
+   - Wix
 
 # 💞️ I’m looking to collaborate on
    Interactive Media Installations
