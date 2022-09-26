@@ -2,7 +2,7 @@
 
 I am a New Media Artist questioning the master narratives of art by celebrating cultural differences in the broad spectrum of human creativity and expression. I am currently based in the Pacific Northwest. I received my BFA in Art & Technology from the University of Oregon (2022). My studies included Digital Illustration, Creative Code Art, Emerging Technologies, and Contemporary Art History.
 
-My work has been featured in the LaVerne Krause Gallery, Froyer Gallery, Washburn Gallery, and Lightbox NYC.
+My work has been featured in the LaVerne Krause Gallery, Froyer Gallery, Washburn Gallery, Aperture Gallery, Jordan Schnitzer Museum of Art, and Lightbox NYC.
 
 My professional interests include data information literacy; community outreach; art education; curatorial activism; access and inclusion within academic institutions; and using emerging technologies for creative expression.
 
@@ -75,12 +75,10 @@ These two personas overlap at a unique intersection of exploring the concept of 
    AI/ML Development
 
 # 📫 How to reach me...
-   [Portfolio](https://www.social-sin.com/)
+   [Website](https://www.social-sin.com/)
    
    [Instagram](https://www.instagram.com/social.sin/)
    
    [Twitter](https://twitter.com/social_sin_)
    
    [LinkedIn](https://www.linkedin.com/in/social-sin/)
-   
-   [Email](mailto:social.sin@outlook.com)
