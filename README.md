@@ -6,7 +6,7 @@ My work has been featured in the LaVerne Krause Gallery, Froyer Gallery, Washbur
 
 My professional interests include data information literacy; community outreach; art education; curatorial activism; access and inclusion within academic institutions; and using emerging technologies for creative expression.
 
-# 🐉 About me
+# 🐉 Artist Statement
 
 I question the master narratives of art by celebrating cultural differences in the broad spectrum of human creativity and expression.
 
@@ -16,69 +16,9 @@ My other persona is Social Sin, which is based on my interest in examining the s
 
 These two personas overlap at a unique intersection of exploring the concept of death as a loss of identity and the practice of grief through personal anecdotes, rediscovery, and reclamation. This exploration establishes a relationship between personal and cultural histories as one’s self-identity is shaped by personal experiences and social expectations.
 
-# 🌱 I’m currently learning
-   ## Programming Languages
-   - HMTL
-   - CSS
-   - JavaScript
-   - Java
-   - Python
-
-   ## GitHub
-   - GitHub Pages
-   - CollectionBuilder
-   - D3.js
-   - Jekyll
-   - Bootstrap
-   - Markdown
-
-   ## p5.js
-   - p5.sound
-   - p5.play
-   - p5.envelope
-
-   ## Processing
-   - Beads
-   - Loom
-   - Lunar
-   - Minim
-   - MidiBus
-
-   ## Eclipse
-   - PyWin32
-   - PyAutoGUI
-   - Pynput
-
-   ## Content Management Systems
-   - WordPress
-   - Joomla!
-   - Wix
-   - TownNews Blox CMS
-   
-   ## UI Design
-   - Figma
-   - Readymag
-
-   ## Adobe Creative Cloud
-   - Photoshop
-   - Illustrator
-   - InDesign
-   - Dreamweaver
-
-# 💞️ I’m looking to collaborate on
-   Interactive Media Installations
-   
-   UX/UI Design
-   
-   App and Web Development
-   
-   AI/ML Development
-
 # 📫 How to reach me...
    [Website](https://www.social-sin.com/)
    
    [Instagram](https://www.instagram.com/social.sin/)
-   
-   [Twitter](https://twitter.com/social_sin_)
    
    [LinkedIn](https://www.linkedin.com/in/social-sin/)
