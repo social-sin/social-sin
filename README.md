@@ -12,7 +12,6 @@ Lockwood has been sharing her resonating stories of identity, culture, and memor
    
    [Instagram](https://www.instagram.com/social.sin/)
    
-   [LinkedIn](https://www.linkedin.com/in/social-sin/)
-   
    [Twitter](https://twitter.com/KaomojiGenBot)
    
+   [LinkedIn](https://www.linkedin.com/in/social-sin/)
