@@ -1,20 +1,11 @@
 # 👋🏽 Hi, I’m @social-sin!
-
-I am a New Media Artist questioning the master narratives of art by celebrating cultural differences in the broad spectrum of human creativity and expression. I am currently based in the Pacific Northwest. I received my BFA in Art & Technology from the University of Oregon (2022). My studies included Digital Illustration, Creative Code Art, Emerging Technologies, and Contemporary Art History.
-
-My work has been featured in the LaVerne Krause Gallery, Froyer Gallery, Washburn Gallery, Aperture Gallery, Jordan Schnitzer Museum of Art, and Lightbox NYC.
-
-My professional interests include data information literacy; community outreach; art education; curatorial activism; access and inclusion within academic institutions; and using emerging technologies for creative expression.
-
-# 🐉 Artist Statement
-
-I question the master narratives of art by celebrating cultural differences in the broad spectrum of human creativity and expression.
-
-I represent myself and my artwork in two personas that exemplify my creative practice. One is Miss Identify which is a witty exploitation of the ambiguities of “misidentify,” encompassing my experiences of others misidentifying and erasing my multi-racial and bisexual identities. I utilize this practice as a love language to examine my internal relationships with my emotions and self-identity as well as my external relationships with friends and family through a nostalgic lens. These are works of emotional and physical relationships with myself and others, exploring topics of coping with grief and loss; rediscovering family histories; and reclaiming self-identity.
-
-My other persona is Social Sin, which is based on my interest in examining the societal sins of discrimination and injustice through an institutional lens. I utilize this practice to build a stronger community through research, workshops, and community conversations. These works bring awareness of implicit biases, emphasize empathy and highlight the importance of maintaining self-identity through collaboration and non-confrontational dialogue.
-
-These two personas overlap at a unique intersection of exploring the concept of death as a loss of identity and the practice of grief through personal anecdotes, rediscovery, and reclamation. This exploration establishes a relationship between personal and cultural histories as one’s self-identity is shaped by personal experiences and social expectations.
+Kayla Lockwood excavates the liminal spaces of identity and memory in a multidisciplinary exploration of artmaking in the modern world. Art opened a pathway of self-discovery for Lockwood. With a multiracial and bisexual identity, the sense of othering became a weight she carried. Art became a boundless place where her multifaceted identity could find acceptance, acknowledgment, and flourish. Working with traditional mediums, like graphite and photography, as well as new media, such as video and coding, she created independent works and experiential installations to convey her messages of cultural and social empathy. Unearthing the power these creations had for her, she felt compelled to use her practice to empower others who faced the same struggles and uncertainty she once did.
+ 
+For Lockwood, creativity has always been a foundational part of her nature. Her parents recognized her insatiable creative drive from a young age. Through grade school, she continued to practice her art and enrolled at the University of Oregon in Eugene where she went on to complete her Bachelor of Fine Arts in Art & Technology. Today, her artistic practice takes shape through her dual artistic personas; Miss Identify, which explores the personal and emotional toll of being misidentified, and Social Sin, which tackles issues of systemic inequality from a collaborative and community perspective.
+ 
+As she grew as an independent artist, she also discovered a passion for collaboration; founding groups such as Tech Aesthetic, which uses art and technology to inspire new connections in communities, Zine Punks, a collective constructing an archival zine library, and Augury House, a cross-disciplinary collective working with film and new media projects. To date, she has produced countless research projects, workshops, and collaborative and community-oriented projects in addition to exploring the realm of curation. With dreams of growing as a professional artist as well as a professor, imparting the intersections of art and technology, she continues to push the boundaries of her personal, collaborative, and pedagogical projects as a Master of Fine Arts candidate at the University of Nevada, Las Vegas.
+ 
+Lockwood has been sharing her resonating stories of identity, culture, and memory with solo exhibitions at the Foyer Gallery and Washburn Gallery in Eugene, Oregon, as well as participation in group shows at the LaVerne Krause Gallery in Eugene, the PGE Gallery of Portland Center Stage in Oregon, and the Creative Code Festival at LIGHTBOX in New York.
 
 # 📫 How to reach me...
    [Website](https://www.social-sin.com/)
@@ -22,3 +13,6 @@ These two personas overlap at a unique intersection of exploring the concept of 
    [Instagram](https://www.instagram.com/social.sin/)
    
    [LinkedIn](https://www.linkedin.com/in/social-sin/)
+   
+   [Twitter](https://twitter.com/KaomojiGenBot)
+   
